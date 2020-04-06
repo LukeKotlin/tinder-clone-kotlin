@@ -1,4 +1,14 @@
-# Tinder_android_app_clone
+# Tinder_android_app_clone_kotlin
+
+++++++++++++++++++++
+
+Shoutout to Simcoder, who is the Initializer of this application. He already wrote this project in java: https://github.com/SimCoderYoutube/TinderClone
+
+I just converted this project into kotlin.
+
+Make sure that you check out his tutorial on his youtube channel! The link is below!
+
+++++++++++++++++++++
 
 ▷ Create an android app like tinder
 
